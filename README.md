@@ -26,6 +26,11 @@ Value2
 
 ![](images/value2.png)
 
+## Download the Trained Model
+You can easily access and download the trained model for your use by following the link below:
+
+- [Google Drive](https://drive.google.com/drive/folders/1veI4L3w63aeVda8lfIInfWJvig9UACgC?usp=drive_link)
+
 ## Model Conversion for iOS
 
 After training the model, it was converted to the .mlmodel format for seamless integration with iOS applications. This conversion allows the model to be deployed on iOS devices and used for inference within iOS apps.
