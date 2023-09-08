@@ -26,3 +26,7 @@ Value2
 
 ![](images/value2.png)
 
+## Model Conversion for iOS
+
+After training the model, it was converted to the .mlmodel format for seamless integration with iOS applications. This conversion allows the model to be deployed on iOS devices and used for inference within iOS apps.
+
